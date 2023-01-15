@@ -2,7 +2,7 @@ body {
   position: absolute;
   margin: 0;
   display: flex;
-  font-family: cursive;
+  font-family: 'Arial';
   word-wrap: break-word;
   color: #252A34;
 }
